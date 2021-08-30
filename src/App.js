@@ -1,11 +1,9 @@
-import DocumentTitleOne from "./DocumentTitleOne";
-import DocumentTitleTwo from "./DocumentTitleTwo";
+import Form from './Form';
 
 function App() {
     return (
         <div>
-            <DocumentTitleOne />
-            <DocumentTitleTwo />
+            <Form />
         </div>
     )
 }
