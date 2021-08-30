@@ -1,11 +1,11 @@
-import Acomponent from "./components/Acomponent";
-import Bcomponent from "./components/Bcomponent";
+import DocumentTitleOne from "./DocumentTitleOne";
+import DocumentTitleTwo from "./DocumentTitleTwo";
 
 function App() {
     return (
         <div>
-           <Acomponent name="Sai Manikanta" />
-           <Bcomponent party="Tomarrow" /> 
+            <DocumentTitleOne />
+            <DocumentTitleTwo />
         </div>
     )
 }
